@@ -1,0 +1,44 @@
+{
+  "state": "RUNNING",
+  "motor_temp": {
+    "active": 1,
+    "value": 30,
+    "timestamp": 1500
+  },
+  "pump_temp": {
+    "active": 1,
+    "value": 30,
+    "timestamp": 1505
+  },
+  "flow_in": {
+    "active": 1,
+    "value": 160,
+    "timestamp": 1510
+  },
+  "flow_out": {
+    "active": 1,
+    "value": 150,
+    "timestamp": 1515
+  },
+  "motor_power": {
+    "active": 1,
+    "value": 1,
+    "timestamp": 1520
+  },
+  "pump_power": {
+    "active": 1,
+    "value": 1,
+    "timestamp": 1525
+  },
+  "bentonite_power": {
+    "active": 0,
+    "value": 0,
+    "timestamp": 1530
+  },
+  "estop_pressed": {
+    "active": 1,
+    "value": 0,
+    "timestamp": 1535
+  },
+  "global_time": 1540
+}
