@@ -1,2 +1,2 @@
 # tunneling-firmware-portfolio
-Firmware and Design Decision made by Hemil K. Patel
+Firmware and schematic materials designed by Hemil K. Patel for the Washington Tunneling Electronics Team.
